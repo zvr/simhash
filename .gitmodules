@@ -1,0 +1,3 @@
+[submodule "orig/tlsh"]
+	path = orig/tlsh
+	url = https://github.com/trendmicro/tlsh.git
