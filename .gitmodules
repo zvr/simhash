@@ -7,3 +7,6 @@
 [submodule "orig/sdhash"]
 	path = orig/sdhash
 	url = https://github.com/sdhash/sdhash.git
+[submodule "orig/py-nilsimsa"]
+	path = orig/py-nilsimsa
+	url = https://github.com/diffeo/py-nilsimsa.git
