@@ -4,3 +4,6 @@
 [submodule "orig/ssdeep"]
 	path = orig/ssdeep
 	url = https://github.com/ssdeep-project/ssdeep.git
+[submodule "orig/sdhash"]
+	path = orig/sdhash
+	url = https://github.com/sdhash/sdhash.git
