@@ -1,0 +1,2 @@
+# simhash
+Exploring similarity hashes
